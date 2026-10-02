@@ -1,0 +1,19 @@
+STAFF 2
+  saved s2-a-inventory-page
+  saved s2-b-bad-upc-format
+  saved s2-c-unknown-upc-no-lookup
+  saved s2-d-quick-entry-added
+  saved s2-e-session-item-added
+  saved s2-f-session-submitted
+  saved s2-g-after-submit-returns-home
+STAFF 3/4
+  saved s3-a-no-expiration-field
+  inventory page mentions "expir": false
+  reporting home mentions "expir": false
+ADMIN 1
+  saved a1-a-visit-report
+  saved a1-b-no-visits-range
+  saved a1-c-start-after-end
+ADMIN 2
+  saved a2-a-inventory-reports-default
+  saved a2-b-inventory-reports-range
